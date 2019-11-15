@@ -1,0 +1,10 @@
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Release\DuyuruProjesi.exe.config
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Release\DuyuruProjesi.exe
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Release\DuyuruProjesi.pdb
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Release\MetroFramework.dll
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.Form1.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.exe
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Release\DuyuruProjesi.pdb

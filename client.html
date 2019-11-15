@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+<div class="mainDiv">
+
+    <ul id="duyurular">
+    </ul>
+</div>
+<!--<p id="servIp">WHEEEY</p>-->
+<script type="text/javascript">
+
+    var socket = null;
+    var isopen = false;
+    var currentSlide = 0;
+    var myInterval = null;
+    window.onload = function () {
+        //socket = new WebSocket("ws://192.168.0.17:9001");
+        socket = new WebSocket("ws://127.0.0.1:9001");
+        socket.binaryType = "arraybuffer";
+
+        socket.onopen = function () {
+            console.log("Connected!");
+            isopen = true;
+            sendText("aktif");
+            sendText("ayarlar");
+            sendText("ip");
+        }
+        socket.onmessage = function (e) {
+
+            if (typeof e.data == "string") {
+                var veri = JSON.parse(e.data);
+                if (veri["duyuruCheck"] == true) {
+                    console.log("Yeni veri girişi!!!");
+                    console.log("Bağlantı açıksa güncel listeyi almaya gidiyorum");
+                    sendText("aktif");
+                }
+                else if (veri["ayarCheck"] == true) {
+                    console.log("Ayarlar değişti");
+                    sendText("ayarlar");
+                }
+                else {
+                    if ("ayarlar" in veri) {
+                        ayarlar = veri["ayarlar"];
+                        currentSlide = 0;
+                        clearInterval(myInterval);
+                        ayarYap(ayarlar);
+                        var newInterval = ayarlar[4];
+                        myInterval = setInterval(nextSlide, newInterval);
+                    }
+                    if ("duyurular" in veri) {
+                        var aktif_duyurular = veri["duyurular"];
+                        duyuruYereles(aktif_duyurular);
+                        sendText("ayarlar");
+                    }
+                    if ("ip" in veri) {
+
+                        var ipAddr = veri["ip"];
+                        document.getElementById("servIp").innerHTML = ipAddr;
+                    }
+                }
+            }
+        }
+        socket.onclose = function (e) {
+            //console.log("Connection closed.");
+            socket = null;
+            isopen = false;
+        }
+    };
+    function duyuruYereles(duyurular) {
+        console.log(duyurular);
+        var node = document.getElementById('duyurular');
+        while (node.hasChildNodes()) {
+            node.removeChild(node.firstChild);
+        }
+        //console.log(duyurular)
+        for (ind = 0; ind < duyurular.length; ++ind) {
+
+            var element = document.createElement('p');
+            if (ind == 0) {
+                element.className = "duyuru showing";
+            }
+            else {
+                var element = document.createElement('p');
+                element.className = "duyuru";
+            }
+            element.innerHTML = duyurular[ind];
+            document.getElementById("duyurular").appendChild(element);
+        }
+    }
+    function nextSlide() {
+        //console.log(currentSlide)
+
+        var slides = document.querySelectorAll("#duyurular .duyuru");
+
+        slides[currentSlide].className = "duyuru";
+        currentSlide = (currentSlide + 1) % slides.length;
+        slides[currentSlide].className = "duyuru showing";
+    }
+    ;
+    function sendText(komut) {
+        if (isopen) {
+            socket.send(komut);
+        } else {
+            console.log("Bağlantı açık değil");
+        }
+    }
+    ;
+    function ayarYap(ayarlar) {
+        console.log(ayarlar);
+        document.body.style.backgroundColor = ayarlar[0];
+        //console.log(document.getElementsByClassName("duyuru showing"));
+        document.getElementsByClassName("duyuru showing")[0].style.backgroundColor = ayarlar[1];
+
+
+        var cols = document.getElementsByClassName('duyuru');
+        for (i = 0; i < cols.length; i++) {
+            cols[i].style.backgroundColor = ayarlar[1];
+        }
+
+        document.getElementsByClassName("duyuru showing")[0].style.color = ayarlar[2];
+        for (i = 0; i < cols.length; i++) {
+            cols[i].style.color = ayarlar[2];
+        }
+        document.getElementsByClassName("duyuru showing")[0].style.boxShadow = "0 0 5px 10px " + ayarlar[1];
+        for (i = 0; i < cols.length; i++) {
+            cols[i].style.boxShadow = "0 0 5px 10px " + ayarlar[1];
+        }
+        document.getElementsByClassName("duyuru showing")[0].style.fontFamily = ayarlar[3];
+        for (i = 0; i < cols.length; i++) {
+            cols[i].style.fontFamily = ayarlar[3];
+        }
+
+
+    }
+</script>
+
+<style>
+
+    #duyurular {
+        position: relative;
+        height: 300px;
+        padding: 0px;
+        margin: 0px;
+        list-style-type: none;
+    }
+
+    .duyuru {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        z-index: 1;
+
+        -webkit-transition: opacity 1s;
+        -moz-transition: opacity 1s;
+        -o-transition: opacity 1s;
+        transition: opacity 1s;
+    }
+
+    .showing {
+        opacity: 1;
+        z-index: 2;
+
+    }
+
+    .duyuru {
+        word-break: break-all;
+        font-size: 40px;
+        padding: 40px;
+        box-sizing: border-box;
+        /*
+        box-shadow: 0 0 5px 10px rgb(100, 174, 219);
+        background: rgb(100, 174, 219);
+        color: rgb(230, 230, 230);*/
+        text-align: center;
+
+    }
+
+    body {
+        background: rgb(211, 211, 211);
+    }
+
+    .mainDiv {
+        /*yeni div ekleyince benzer css kullan*/
+        width: 100%;
+        height: 50%;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+</style>
+</body>
+</html>

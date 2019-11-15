@@ -1,0 +1,91 @@
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+c:\users\burak\documents\visual studio 2013\Projects\DuyuruProjesi\DuyuruProjesi\bin\Debug\MetroFramework.dll
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crashmotilda\Desktop\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Crashmotilda\Desktop\DUYURU\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\RASPBERRY PI SON\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\rasphepsi\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.application
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Crashmotilda\Desktop\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.config
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.pdb
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.application
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.exe
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\DuyuruProjesi.pdb
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Form1.resources
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.Properties.Resources.resources
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.exe.manifest
+C:\Users\Burak\Desktop\DuyuruCsharpSon\DuyuruCsharpSon\Yeni\DuyuruProjesi\DuyuruProjesi\obj\Debug\DuyuruProjesi.application
