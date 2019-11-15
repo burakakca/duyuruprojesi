@@ -1,3 +1,3 @@
 # duyuruprojesi
 
-Rapor.docx içerisinde detaylı bir şekilde anlatılmıştır.
+Rapor.pdf içerisinde detaylı bir şekilde anlatılmıştır.
